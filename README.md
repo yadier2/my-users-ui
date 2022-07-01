@@ -5,7 +5,7 @@ Puedes acceder a la aplicacion desde este enlace:
 [https://my-users-ui.herokuapp.com/](https://my-users-ui.herokuapp.com/)
 
 ## Descripcion
-My uses es la plataforma que te permite gestionar la información de tus usuarios y acceder a ellos desde cualquier lugar.
+My users es la plataforma que te permite gestionar la información de tus usuarios y acceder a ellos desde cualquier lugar.
 
 ## Requisitos
 Debes de tener instalado NPM y Node.js para su correcta ejecución.
